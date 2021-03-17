@@ -15,9 +15,15 @@
 ```python3 manage.py migrate```
 ```python3 manage.py createsuperuser```
 
-Sample user:-
+Sample user1:-
 
 username: subhra
+
+password: pass@subhra12
+
+Sample user2:-
+
+username: test1
 
 password: pass@subhra12
 
